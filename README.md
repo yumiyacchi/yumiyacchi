@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Cooking, Music and Videogames
 - 🌱 I’m currently learning Java, JavaScript, REACT and Spring Boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG:@yumiyacchi_music, BS:@yumiyacchithedj
+- 📫 How to reach me IG:@yumiyacchi_music, BSky:@yumiyacchithedj
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: not now 
 
