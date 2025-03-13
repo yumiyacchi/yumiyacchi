@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @yumiyacchi
 - 👀 I’m interested in Coding, Cooking, Music and Videogames
 - 🌱 I’m currently learning Java, Python, JavaScript, REACT and Spring Boot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me IG:@yumiyacchi_music, BSky:@yumiyacchithedj
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: not now 
+- ⚡ Fun fact: none
 
 <!---
 yumiyacchi/yumiyacchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
