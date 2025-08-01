@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yumiyacchi
 - 👀 I’m interested in Coding, Cooking, Music and Videogames
-- 🌱 I’m currently learning Java, Python, JavaScript, REACT and Spring Boot
+- 🌱 I’m currently learning Kotlin, Pythonm JavaScript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me IG:@yumiyacchi_music, BSky:@yumiyacchithedj
 - 😄 Pronouns: he/him
