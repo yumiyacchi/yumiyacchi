@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yumiyacchi
 - 👀 I’m interested in Coding, Cooking, Music and Videogames
 - 🌱 I’m currently learning Kotlin, Python, JavaScript
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on: Anything game related or web development.
 - 📫 How to reach me IG:@yumiyacchi_music, BSky:@yumiyacchithedj
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also do audio production. 
