@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me IG:@yumiyacchi_music, BSky:@yumiyacchithedj
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: none
+- ⚡ Fun fact: I also do audio production. 
 
 <!---
 yumiyacchi/yumiyacchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
